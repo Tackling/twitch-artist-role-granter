@@ -1,0 +1,10 @@
+{
+  "name": "twitch-artist-role-granter",
+  "version": "1.0.0",
+  "description": "Simple script to give yourself the artist role and artist badge on your own Twitch channel.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["twitch", "artist", "badge", "graphql", "role"],
+  "author": "Tackling",
+  "license": "MIT"
+}
